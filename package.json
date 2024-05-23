@@ -1,6 +1,7 @@
 {
   "name": "multipong",
   "version": "1.0.0",
+  "type": "module",
   "description": "MultiPong by Stux Games",
   "main": "index.js",
   "scripts": {
